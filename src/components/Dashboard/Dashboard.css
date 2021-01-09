@@ -1,0 +1,7 @@
+.dashboard {
+    background-color:;
+}
+.nav__integrate {
+    display: flex;
+    justify-content: space-between;
+}
